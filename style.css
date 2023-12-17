@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --scale: scale(0.7);
+  --blur: blur(13px);
+}
+.wrapper {
+  gap: 2vw;
+}
+.image {
+  height: 60vw;
+  background: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  transform: var(--scale);
+  filter: var(--blur);
+}
