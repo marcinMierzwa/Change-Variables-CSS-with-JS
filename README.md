@@ -11,7 +11,7 @@ Users should be able to:
 
 # Link
 
-* Live Site URL: <a class="d-inline-block mx-2" href="">Change Variables CSS with JavaSript
+* Live Site URL: <a class="d-inline-block mx-2" href="https://github.com/marcinMierzwa/Change-Variables-CSS-with-JS">Change Variables CSS with JavaSript
 </a>
 
 # Built with
