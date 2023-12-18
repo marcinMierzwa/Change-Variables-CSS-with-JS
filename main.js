@@ -9,4 +9,5 @@ function updateValue() {
   const suffix = this.dataset.size || "";
   image.style.filter = `${this.name}(${this.value}${suffix})`;
   image.style.transform = `${this.name}(${this.value / 100})`;
+  console.log(this.value);
 }
